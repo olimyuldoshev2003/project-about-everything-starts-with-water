@@ -1,0 +1,6 @@
+.shadow_h {
+  border-radius: 30px;
+  background: linear-gradient(180deg, #d9d9d9 0%, rgba(217, 217, 217, 0) 100%);
+  box-shadow: 7px -2px 18px 0px rgba(0, 0, 0, 0.25),
+    -9px 12px 23px 0px rgba(0, 0, 0, 0.25);
+}
